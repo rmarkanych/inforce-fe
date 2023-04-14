@@ -1,0 +1,40 @@
+{
+ "products" : [
+  {
+    "id": 1,
+    "imageUrl": "https://pixabay.com/images/id-1050973/",
+    "name": "Apple MacBook Pro",
+    "count": 4,
+    "size": {
+    "width": 800,
+    "height": 200
+    },
+    "weight": "200g",
+    "comments": ["Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "Lorem Ipsum is simply dummy text of the printing and typesetting industry."]
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://pixabay.com/images/id-1682317/",
+    "name": "Samsung Galaxy S21",
+    "count": 1,
+    "size": {
+    "width": 300,
+    "height": 200
+    },
+    "weight": "400g",
+    "comments": ["Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "Lorem Ipsum is simply dummy text of the printing and typesetting industry."]
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://pixabay.com/images/id-7142035/",
+    "name": "DJI Mavic Air 2",
+    "count": 2,
+    "size": {
+    "width": 200,
+    "height": 400
+    },
+    "weight": "100g",
+    "comments": ["Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "Lorem Ipsum is simply dummy text of the printing and typesetting industry."]
+  }
+ ]
+  }
